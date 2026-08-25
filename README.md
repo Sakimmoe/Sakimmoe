@@ -8,15 +8,15 @@
 
 喜欢部署维护阿紫的一些小项目
 
-<a href="https://www.noyu.moe">
+<a href="https://www.noyu.moe" style="text-decoration:none">
   <img src="https://img.shields.io/badge/Homepage-www.noyu.moe-D96A63?style=flat-square&logo=vercel&logoColor=white" alt="Homepage" />
 </a>
 &nbsp;
-<a href="https://space.bilibili.com/17276?spm_id_from=333.1007.0.0">
+<a href="https://space.bilibili.com/17276?spm_id_from=333.1007.0.0" style="text-decoration:none">
   <img src="https://img.shields.io/badge/Bilibili-bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
 </a>
 &nbsp;
-<a href="mailto:koko@noyu.moe">
+<a href="mailto:koko@noyu.moe" style="text-decoration:none">
   <img src="https://img.shields.io/badge/Email-koko%40noyu.moe-2B1F1E?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
