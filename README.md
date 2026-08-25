@@ -22,4 +22,8 @@
 ## 📰 最新博客
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - [哪吒探针V0版本部署教程](https://blog.noyu.moe/archives/na-zha-tan-zhen-v0ban-ben-bu-shu-jiao-cheng)
+ - [几种小吃制作方法备份](https://blog.noyu.moe/archives/ji-zhong-xiao-chi-zhi-zuo-fang-fa-bei-fen)
+ - [做了一个九重紫的个人主页](https://blog.noyu.moe/archives/zuo-liao-yi-ge-jiu-chong-zi-de-ge-ren-zhu-ye)
+ - [哪吒探针V1版本Agent 连接地址使用域名并启用CF代理的教程](https://blog.noyu.moe/archives/na-zha-tan-zhen-agent-lian-jie-di-zhi-shi-yong-yu-ming-bing-qi-yong-cfxiao-huang-yun)
+ - [Halo 更换系统默认字体](https://blog.noyu.moe/archives/halo-geng-huan-xi-tong-mo-ren-zi-ti)<!-- BLOG-POST-LIST:END -->
