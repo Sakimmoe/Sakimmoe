@@ -26,9 +26,26 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakimmoe&show_icons=true&hide_border=true&bg_color=FDE9E7&title_color=D96A63&icon_color=D96A63&text_color=2B1F1E" alt="GitHub Stats" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakimmoe&layout=compact&hide_border=true&bg_color=FDE9E7&title_color=D96A63&text_color=2B1F1E&langs_count=8" alt="Top Languages" height="170" />
+## ✨ 项目
+
+  <table>
+    <tr>
+      <td><b><a href="https://github.com/Sakimmoe/homepage">homepage</a></b><br/>我的个人主页</td>
+      <td><b><a href="https://github.com/Sakimmoe/iori-nav">iori-nav</a></b><br/>优雅的书签收藏与分享平台，基于 Cloudflare Workers</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Sakimmoe/inkstone">inkstone</a></b><br/>自托管的 Markdown 笔记本，运行在 Cloudflare Workers</td>
+      <td><b><a href="https://github.com/Sakimmoe/CookLikeHOC">CookLikeHOC</a></b><br/>🥢 像老乡鸡那样做饭</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Sakimmoe/Surge-Config">Surge-Config</a></b><br/>Surge 配置文件、模块与 Snell 一键脚本</td>
+      <td><b><a href="https://github.com/Sakimmoe/debian-init">debian-init</a></b><br/>自用的服务器一键优化脚本</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Sakimmoe/AnyTLS">AnyTLS</a></b><br/>自用的 AnyTLS 一键部署脚本</td>
+      <td><b><a href="https://github.com/Sakimmoe/28year">28year</a></b><br/>与 lulu 的 28 年之约</td>
+    </tr>
+  </table>
 
 </div>
 
